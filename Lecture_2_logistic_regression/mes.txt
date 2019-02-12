@@ -1,0 +1,2 @@
+type: update
+description: added ipython notebook for classification and logistic regression

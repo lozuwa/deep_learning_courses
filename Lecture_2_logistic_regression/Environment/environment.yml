@@ -1,0 +1,5 @@
+name: dl
+channels: !!python/tuple
+- menpo
+prefix: C:\Users\HP\Anaconda3\envs\dl
+
